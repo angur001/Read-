@@ -1,0 +1,24 @@
+# Logs
+Read++/logs
+Read++/*.log
+Read++/npm-debug.log*
+Read++/yarn-debug.log*
+Read++/yarn-error.log*
+Read++/pnpm-debug.log*
+Read++/lerna-debug.log*
+
+Read++/node_modules
+Read++/dist
+Read++/dist-ssr
+Read++/*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
